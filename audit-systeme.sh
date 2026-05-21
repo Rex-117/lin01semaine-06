@@ -1,3 +1,4 @@
+#!/bin/bash
 # Afficher la date, l'heure et le nom de la machine
 # Lignes de separation pour une meilleure lisibilité
 echo "============Date=================="
